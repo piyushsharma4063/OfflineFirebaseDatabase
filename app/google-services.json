@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "609250177071",
+    "firebase_url": "https://offlinefirebasedatabase.firebaseio.com",
+    "project_id": "offlinefirebasedatabase",
+    "storage_bucket": "offlinefirebasedatabase.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:609250177071:android:510ac9e229387167",
+        "android_client_info": {
+          "package_name": "com.offlinefirebasedatabase.android"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "609250177071-etup74skhrum3fack81eilkpummj8pba.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.offlinefirebasedatabase.android",
+            "certificate_hash": "34eb7f45075845f72c5a711151eb5081c9980310"
+          }
+        },
+        {
+          "client_id": "609250177071-a3g6hpcrbfepsag44hntikis47hf8fpp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAMQtl8JMKUmj0rKnxbz9RP5ZrMJd6WsQk"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "609250177071-a3g6hpcrbfepsag44hntikis47hf8fpp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
